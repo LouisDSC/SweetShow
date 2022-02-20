@@ -1,0 +1,24 @@
+1. Dégagez toutes les pages web
+2. Designer toutes les pages web
+
+branding (logo)
+acceuil (Louis & Sewa)
+page de paiement ( Miessan & Yannick)
+page de détails (Balamou & Axel)
+liste evenement (Loba & Ishola)
+connexion/sinscrire (M.MORIE)
+tableau de bord (Michel & Youssouf)
+création d'un évènement (Manou & )
+
+Couleurs
+ - Verte #269474
+ - Bleue #007198
+
+Police : Nunito extra-light 200
+
+Mettre un Carousel de 5 evenements avenir
+
+Mettre sur chaque bloc un coeur avec le nombre de tickets vendu 
+
+
+
